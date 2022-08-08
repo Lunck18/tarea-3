@@ -1,0 +1,10 @@
+body{
+    background: #ef32d9;  
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgba(137, 255, 253, 0.603), rgba(239, 50, 217, 0.603)),url("fon.jpg"); 
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(137, 255, 253, 0.603), rgba(239, 50, 217, 0.603)),url("fon.jpg"); 
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
